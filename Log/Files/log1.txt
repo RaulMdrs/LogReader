@@ -1,0 +1,5 @@
+2023-06-01 14:30:01 Iniciando a aplicação
+2023-06-01 14:30:45 Usuário 'admin' logado
+2023-06-01 14:35:22 ERRO na página de perfil do usuário
+2023-06-01 14:50:13 Usuário 'admin' deslogado
+2023-06-01 14:50:14 Finalizando a aplicação

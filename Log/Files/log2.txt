@@ -1,0 +1,5 @@
+2023-06-01 09:15:00 Iniciando a aplicação
+2023-06-01 09:15:30 Usuário 'guest' logado
+2023-06-01 09:20:00 ERRO na página de produtos
+2023-06-01 09:40:00 Usuário 'guest' deslogado
+2023-06-01 09:45:00 Finalizando a aplicação
